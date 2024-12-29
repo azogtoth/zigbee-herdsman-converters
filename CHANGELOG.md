@@ -1,5 +1,14 @@
 # Changelog
 
+## [21.10.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.10.0...v21.10.1) (2024-12-29)
+
+
+### Bug Fixes
+
+* **detect:** Detect `RBSH-SWD2-ZB` as Bosch BSEN-C2 ([#8530](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8530)) ([bcfb7f7](https://github.com/Koenkk/zigbee-herdsman-converters/commit/bcfb7f728969e804c06e48a5c555250ba50afe1d))
+* **ignore:** update dependencies ([#8531](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8531)) ([786c59b](https://github.com/Koenkk/zigbee-herdsman-converters/commit/786c59b5d7d0b9f1b1022b8919455a205d20b9d5))
+* Update zigbee-herdsman and use new exports ([#8527](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8527)) ([b8a076e](https://github.com/Koenkk/zigbee-herdsman-converters/commit/b8a076e30515399ba2f1caaa38cf93d51b2e073a))
+
 ## [21.10.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.9.2...v21.10.0) (2024-12-28)
 
 
